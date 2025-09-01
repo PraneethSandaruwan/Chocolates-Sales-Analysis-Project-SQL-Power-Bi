@@ -6,8 +6,6 @@ Total amount by category
 Toatal amount by region %
 Total amount by product
 
-# Insights & findings
-
 # Tools and Technologies
 SQL, Power Bi
 # Data Collection
